@@ -1,4 +1,4 @@
-# sunanhe.github.io
+# YataiJi.github.io
 
 Source for Ji Yatai's English homepage.
 
